@@ -12,7 +12,7 @@
   - - [x] Introduction
   - - [x] How it works
   - - [x] Setup Installation
-  - - [ ] Input and Output in Java
+  - - [x] Input and Output in Java
   - - [ ] Conditionals & Loops in Java
     - - [ ] if else
     - - [ ] loops

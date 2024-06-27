@@ -8,17 +8,17 @@
 - [x] Flow of the program
   - - [x] Flowcharts 
   - - [x] Pseudocode
-- [ ] Introduction to Java
+- [x] Introduction to Java
   - - [x] Introduction
   - - [x] How it works
   - - [x] Setup Installation
   - - [x] Input and Output in Java
-  - - [ ] Conditionals & Loops in Java
-    - - [ ] if else
-    - - [ ] loops
-    - - [ ] Switch statements
-  - - [ ] Data types
-  - - [ ] Coding best practices
+  - - [x] Conditionals & Loops in Java
+    - - [x] if else
+    - - [x] loops
+    - - [x] Switch statements
+  - - [x] Data types
+  - - [x] Coding best practices
 - [ ] Functions
   - - [ ] Introduction
   - - [ ] Scoping in Java
